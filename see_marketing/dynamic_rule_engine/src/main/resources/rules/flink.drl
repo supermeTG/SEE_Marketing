@@ -1,0 +1,16 @@
+package cn.astedu.demo.droolsdemo.rules
+import cn.asedu.dynamic_rule.demos.Action
+
+import cn.asedu.dynamic_rule.demos.Applicant
+import cn.asedu.dynamic_rule.demos.Action
+
+rule "age if valid"
+when
+ $a: Applicant()
+then
+ if($a.getAge() >=18){
+     $a.setValid(true);
+ }else{
+     $a.setValid(false);
+ }
+end

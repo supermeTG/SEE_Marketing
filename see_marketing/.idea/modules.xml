@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data_analysis/data_analysis.iml" filepath="$PROJECT_DIR$/data_analysis/data_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_rule_engine/dynamic_rule_engine.iml" filepath="$PROJECT_DIR$/dynamic_rule_engine/dynamic_rule_engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4jdemo/log4jdemo.iml" filepath="$PROJECT_DIR$/log4jdemo/log4jdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manageplatform/manageplatform.iml" filepath="$PROJECT_DIR$/manageplatform/manageplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/see_marketing.iml" filepath="$PROJECT_DIR$/see_marketing.iml" />
+    </modules>
+  </component>
+</project>
